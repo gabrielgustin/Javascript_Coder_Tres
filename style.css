@@ -1,0 +1,13 @@
+body{background-color: rgb(89, 107, 62);}
+#Titulo{
+    text-align: center;
+    color: aliceblue;
+}
+#finalizar{
+    color: black;
+}
+.cardPorductos{
+    background-color: green;
+    width: 200px;
+    margin: 5px; 
+}
